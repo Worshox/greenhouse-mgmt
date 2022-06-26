@@ -1,0 +1,33 @@
+body {
+    width: 100vw;
+    margin: 0;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+fieldset {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 60px;
+    font-family: fantasy;
+    font-size: 1.5em;
+}
+
+input, label {
+    font-size: 1rem;
+}
+
+label {
+    align-self: flex-start;
+    margin-bottom: 5px;
+}
+
+#login, #password {
+    margin-bottom: 20px;
+}
+
