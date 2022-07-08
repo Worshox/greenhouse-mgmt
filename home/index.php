@@ -1,3 +1,11 @@
+<?php
+session_start();
+if (!isset($_SESSION['username'])) {
+    session_abort();
+    header('Location: /');
+}
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
