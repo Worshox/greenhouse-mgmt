@@ -10,6 +10,7 @@
 </head>
 
 <body>
+    <h1>Hello #TODO</h1>
     <img src="logo.png" alt="Company logo">
     <nav>
         <a href="">My workplace - #TODO</a>
