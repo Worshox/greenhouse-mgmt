@@ -10,7 +10,16 @@
 </head>
 
 <body>
-
+    <img src="logo.png" alt="Company logo">
+    <nav>
+        <a href="">My workplace - #TODO</a>
+        <a href="important">Important</a>
+        <a href="tasks">Tasks</a>
+        <a href="notes">Notes</a>
+        <a href="map">Map</a>
+        <a href="goto">Go to...</a>
+        <a href="creator">Creator/editor</a>
+    </nav>
 </body>
 
 </html>
